@@ -164,29 +164,6 @@ ul {
     background-size: 20px;
 }
 
-.dots {
-    background-image: url("/images/dots.png");
-    height: 186px;
-    width: 204px;
-    background-repeat: no-repeat;
-    position: absolute;
-}
-
-.dots-up {
-    top: 70px;
-    right: 0;
-}
-
-.dots-down {
-    bottom: 200px;
-    left: 0;
-}
-
-.dots-top-left {
-    top: 70px;
-    left: 0;
-}
-
 
 /* End Global */
 
